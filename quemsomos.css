@@ -1,0 +1,62 @@
+header {
+    background: black;
+    padding: 40px 0;
+}
+
+nav {
+    text-align: center;
+}
+  	
+nav li {
+    display: inline;
+    margin: 0 0 0 40px;
+}
+
+nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+    color: white;
+}
+
+.principal h1 {
+    padding: 0 830px;
+}
+
+.principal h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 1em;
+    margin: 0 0 0 15px;
+}
+
+.somos {
+    width: 970px;
+    margin: auto;
+}
+
+.somos p {
+    width: 40%;
+    display: inline-block;
+    font-size: 17px;
+    vertical-align: top;
+}
+
+.banner1{
+    width: 50%;
+    height: 440px;
+}
+
+footer {
+    background: black;
+    text-align: center;
+}
+
+.copy {
+    color: white;
+    font-size: 15px;
+    margin: 10px 0 0;
+}
