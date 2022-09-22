@@ -1,0 +1,78 @@
+header {
+    background: black;
+    padding: 40px 0;
+}
+
+nav {
+    text-align: center;
+}
+  	
+nav li {
+    display: inline;
+    margin: 0 0 0 40px;
+}
+
+nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+    color: white;
+}
+
+.principal h1 {
+    padding: 0 830px;
+}
+
+.principal h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 1em;
+    margin: 0 0 0 15px;
+}
+
+.servicos {
+    width: 990px;
+    margin: auto;
+}
+
+.servicos li {
+    display: inline-block;
+    vertical-align: top;
+    width: 15%;
+    text-align: center;
+    margin: 0.3% 0.1%;
+    padding: 80px 20px;
+    border: 2px solid black;
+}
+
+.servicos li:hover {
+    border-color: red;
+}
+
+.servicos h3 {
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 1em 0;
+}
+
+.servicos p {
+    text-align: left;
+    font-size: 17px;
+    padding: 0.2em 0;
+}
+
+footer {
+    background: black;
+    text-align: center;
+}
+
+.copy {
+    color: white;
+    font-size: 15px;
+    margin: 10px 0 0;
+}
